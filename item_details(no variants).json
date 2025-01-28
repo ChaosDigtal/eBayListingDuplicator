@@ -1,0 +1,880 @@
+{
+    "itemId": "v1|226522067246|0",
+    "sellerItemRevision": "3",
+    "title": "WAFOLOZE Nails Press onsWhite Ombre Short Square Press on Nails Fake Nails Gl...",
+    "shortDescription": "\u3010press ons\u3011WAFOLOZE Made of high-quality acrylic eco-friendly ABS material, strong and not easy to chip or fade, good flexibility, more shiny, comfortable to wear, will not hurt your nails, softness is similar to human nails.",
+    "price": {
+        "value": "6.55",
+        "currency": "USD"
+    },
+    "categoryPath": "Health & Beauty|Nail Care, Manicure & Pedicure|Nail Art|Press-On Nails",
+    "categoryIdPath": "26395|47945|260764|182108",
+    "condition": "New with box",
+    "conditionId": "1000",
+    "itemLocation": {
+        "city": "Woodbridge",
+        "stateOrProvince": "Virginia",
+        "postalCode": "221**",
+        "country": "US"
+    },
+    "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/sw8AAOSw6kZndFro/s-l1600.jpg",
+        "width": 1600,
+        "height": 1600
+    },
+    "additionalImages": [
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/4XYAAOSwmIdndFro/s-l1600.jpg",
+            "width": 1600,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/vzwAAOSwbOVndFro/s-l1600.jpg",
+            "width": 1600,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/-GIAAOSwZSZndFro/s-l1600.jpg",
+            "width": 1600,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/YPsAAOSwG-FndFro/s-l1600.jpg",
+            "width": 1600,
+            "height": 1600
+        },
+        {
+            "imageUrl": "https://i.ebayimg.com/images/g/X08AAOSwZSNndFro/s-l1600.jpg",
+            "width": 1600,
+            "height": 1600
+        }
+    ],
+    "color": "styles-24",
+    "size": "0.04 Fl Oz (Pack of 24)",
+    "brand": "Unbranded",
+    "itemCreationDate": "2024-12-31T20:58:24.000Z",
+    "seller": {
+        "username": "systemll_0",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 5,
+        "sellerLegalInfo": {}
+    },
+    "gtin": "Does not apply",
+    "estimatedAvailabilities": [
+        {
+            "deliveryOptions": [
+                "SHIP_TO_HOME"
+            ],
+            "availabilityThresholdType": "MORE_THAN",
+            "availabilityThreshold": 10,
+            "estimatedAvailabilityStatus": "IN_STOCK",
+            "estimatedSoldQuantity": 5,
+            "estimatedRemainingQuantity": 14
+        }
+    ],
+    "shippingOptions": [
+        {
+            "shippingServiceCode": "Standard Shipping",
+            "type": "Standard Shipping",
+            "shippingCost": {
+                "value": "0.00",
+                "currency": "USD"
+            },
+            "quantityUsedForEstimate": 1,
+            "minEstimatedDeliveryDate": "2025-01-23T10:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-01-25T10:00:00.000Z",
+            "additionalShippingCostPerUnit": {
+                "value": "0.00",
+                "currency": "USD"
+            },
+            "shippingCostType": "FIXED"
+        }
+    ],
+    "shipToLocations": {
+        "regionIncluded": [
+            {
+                "regionName": "United States",
+                "regionType": "COUNTRY",
+                "regionId": "US"
+            }
+        ],
+        "regionExcluded": [
+            {
+                "regionName": "French Polynesia",
+                "regionType": "COUNTRY",
+                "regionId": "PF"
+            },
+            {
+                "regionName": "Libya",
+                "regionType": "COUNTRY",
+                "regionId": "LY"
+            },
+            {
+                "regionName": "New Caledonia",
+                "regionType": "COUNTRY",
+                "regionId": "NC"
+            },
+            {
+                "regionName": "Guadeloupe",
+                "regionType": "COUNTRY",
+                "regionId": "GP"
+            },
+            {
+                "regionName": "Venezuela",
+                "regionType": "COUNTRY",
+                "regionId": "VE"
+            },
+            {
+                "regionName": "Reunion",
+                "regionType": "COUNTRY",
+                "regionId": "RE"
+            },
+            {
+                "regionName": "Barbados",
+                "regionType": "COUNTRY",
+                "regionId": "BB"
+            },
+            {
+                "regionName": "Martinique",
+                "regionType": "COUNTRY",
+                "regionId": "MQ"
+            },
+            {
+                "regionName": "French Guiana",
+                "regionType": "COUNTRY",
+                "regionId": "GF"
+            },
+            {
+                "regionName": "Ukraine",
+                "regionType": "COUNTRY",
+                "regionId": "UA"
+            },
+            {
+                "regionName": "Russian Federation",
+                "regionType": "COUNTRY",
+                "regionId": "RU"
+            }
+        ]
+    },
+    "returnTerms": {
+        "returnsAccepted": true,
+        "refundMethod": "MONEY_BACK",
+        "returnShippingCostPayer": "SELLER",
+        "returnPeriod": {
+            "value": 30,
+            "unit": "CALENDAR_DAY"
+        }
+    },
+    "taxes": [
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Alabama",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "AL"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Alaska",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "AK"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Arizona",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "AZ"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Arkansas",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "AR"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "California",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "CA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Colorado",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "CO"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Connecticut",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "CT"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "District of Columbia",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "DC"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Florida",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "FL"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Georgia",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "GA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Hawaii",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "HI"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Idaho",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "ID"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Illinois",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "IL"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Indiana",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "IN"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Iowa",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "IA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Kansas",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "KS"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Kentucky",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "KY"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Louisiana",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "LA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Maine",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "ME"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Maryland",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "MD"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Massachusetts",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "MA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Michigan",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "MI"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Minnesota",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "MN"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Mississippi",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "MS"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Nebraska",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "NE"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Nevada",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "NV"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "New Jersey",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "NJ"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "New Mexico",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "NM"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "New York",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "NY"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "North Carolina",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "NC"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "North Dakota",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "ND"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Ohio",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "OH"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Oklahoma",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "OK"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Pennsylvania",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "PA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Puerto Rico",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "PR"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Rhode Island",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "RI"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "South Carolina",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "SC"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "South Dakota",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "SD"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Tennessee",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "TN"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Texas",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "TX"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Utah",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "UT"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Vermont",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "VT"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Virginia",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "VA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Washington",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "WA"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "West Virginia",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "WV"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Wisconsin",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "WI"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        },
+        {
+            "taxJurisdiction": {
+                "region": {
+                    "regionName": "Wyoming",
+                    "regionType": "STATE_OR_PROVINCE"
+                },
+                "taxJurisdictionId": "WY"
+            },
+            "taxType": "STATE_SALES_TAX",
+            "shippingAndHandlingTaxed": true,
+            "includedInPrice": false,
+            "ebayCollectAndRemitTax": true
+        }
+    ],
+    "localizedAspects": [
+        {
+            "type": "STRING",
+            "name": "Package Dimensions LxWxH",
+            "value": "5.0x5.0x0.2 Inches"
+        },
+        {
+            "type": "STRING",
+            "name": "Size",
+            "value": "0.04 Fl Oz (Pack of 24)"
+        },
+        {
+            "type": "STRING",
+            "name": "Weight",
+            "value": "0.07 Pounds"
+        },
+        {
+            "type": "STRING",
+            "name": "Shape",
+            "value": "Square"
+        },
+        {
+            "type": "STRING",
+            "name": "Nail Size",
+            "value": "Short"
+        },
+        {
+            "type": "STRING",
+            "name": "Brand",
+            "value": "Unbranded"
+        },
+        {
+            "type": "STRING",
+            "name": "Color",
+            "value": "styles-24"
+        },
+        {
+            "type": "STRING",
+            "name": "Theme",
+            "value": "Ombre"
+        },
+        {
+            "type": "STRING",
+            "name": "Type",
+            "value": "Press-On Nails"
+        }
+    ],
+    "topRatedBuyingExperience": false,
+    "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.com/itm/226522067246?amdata=enc%3AAQAJAAAAoHoV3kP08IDx%2BKZ9MfhVJKk%2BIdUSMQ1cDE%2BbeyTx6a4TKjfyZMA5NeGyStCx9QlDXkGD%2BNelQtjlMgbAehhoiqJCx14mcupQhh%2FzUH%2FYB92Zvxxd3hnNj1xU2voyQHe9Qa64erQoYb3eWDKZF7k3lmROAGJf8nckKqmbRACxlleTFQ4Anr14m2WCZBXP1lYltlnYKgLn2l8qzL3OGCDXVDo%3D",
+    "description": "<div data-viewport=\"{&quot;trackableId&quot;:&quot;01JGF50NEYYB906Y4S7QZHJ3EY&quot;}\" class=\"vim x-item-title\" data-testid=\"x-item-title\" style=\"text-align: center; box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; display: table-cell;\"><h1 class=\"x-item-title__mainTitle\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; line-height: normal; display: inline; overflow-wrap: normal;\"><span class=\"ux-textspans ux-textspans--BOLD\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px;\"><font size=\"6\" style=\"\" color=\"#a7502d\"><i style=\"\">WAFOLOZE Nails Press onsWhite Ombre Short Square Press on Nails Fake Nails Gl...</i></font></span></h1></div><div class=\"vim x-sellercard-atf_main mar-t-12\" style=\"box-sizing: border-box; margin: 0.75rem 0px 0px; padding: 0px; border-right: 0px; border-left: 0px;\"><div data-viewport=\"{&quot;trackableId&quot;:&quot;01JGF50NFC07757XSTJCEHWMW0&quot;}\" class=\"vim x-sellercard-atf\" data-testid=\"x-sellercard-atf\" style=\"text-align: center; box-sizing: border-box; margin: 0px; padding: 16px 0px; border: 0px; clear: both; overflow: initial; display: flex; justify-content: left; align-items: center;\"><h2 class=\"textual-display\" style=\"display: inline-block; margin: 0px 4px 0px 0px; text-transform: uppercase; color: rgb(25, 25, 25); text-align: start;\"><ul><li><font size=\"5\">Description</font></li></ul><div><ul class=\"a-unordered-list a-vertical a-spacing-mini\" style=\"box-sizing: border-box; margin: 0px 0px 0px 18px; color: rgb(15, 17, 17); padding: 0px; font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-weight: 400; text-transform: none; background-color: rgb(255, 255, 255);\"><li class=\"a-spacing-mini\" style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span class=\"a-list-item\" style=\"box-sizing: border-box; color: var(--__N4QdCheV6mGo,#0f1111);\"><font size=\"4\"><i>\u3010press ons\u3011WAFOLOZE Made of high-quality acrylic eco-friendly ABS material, strong and not easy to chip or fade, good flexibility, more shiny, comfortable to wear, will not hurt your nails, softness is similar to human nails.</i></font></span></li><li class=\"a-spacing-mini\" style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span class=\"a-list-item\" style=\"box-sizing: border-box; color: var(--__N4QdCheV6mGo,#0f1111);\"><font size=\"4\"><i>\u3010Short false nails Package\u3011- 24pcs/12 sizes short nails,1 nail file,stick 1, wipes 1, jelly glue 24\u3002\uff08 You can choose the best fake nails for you, which are easy to trim and file into any length and shape you like.\uff09</i></font></span></li><li class=\"a-spacing-mini\" style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span class=\"a-list-item\" style=\"box-sizing: border-box; color: var(--__N4QdCheV6mGo,#0f1111);\"><font size=\"4\"><i>\u3010Nail Press on\u3011Easy to apply, just a few minutes to get a salon-like manicure effect. No need to spend hours at the nail salon for expensive manicures. You can change your nail style anytime and anywhere, just choose the right size and use nail glue or jelly glue. Great choice for home DIY manicures and urgent appointments.</i></font></span></li><li class=\"a-spacing-mini\" style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span class=\"a-list-item\" style=\"box-sizing: border-box; color: var(--__N4QdCheV6mGo,#0f1111);\"><font size=\"4\"><i>\u3010Perfect Gift\u3011Fake nails with nail art designs can be used in various occasions, which can meet your needs in weddings, proms, birthdays, parties and daily life. Also a great gift idea for girlfriend, wife, family, sister on many festival occasions, such as Mother's Day, Valentine's Day, Halloween, Christmas, etc.</i></font></span></li><li class=\"a-spacing-mini\" style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span class=\"a-list-item\" style=\"box-sizing: border-box; color: var(--__N4QdCheV6mGo,#0f1111);\"><font size=\"4\"><i>\u3010After Sales Service\u3011Our WAFOLOZE Acrylic press on nails promises, if you have any questions, please feel free to contact us, any quality problems, refund within 24 hours. Because the computer and mobile phone pixels are different, the color may be slightly different, please refer to the actual shooting.</i></font></span></li></ul></div></h2><a href=\"https://www.ebay.com/str/safirinnovation?_trksid=p4429486.m3561.l161210\" target=\"_blank\" class=\"ux-action\" data-testid=\"ux-action\" data-clientpresentationmetadata=\"{&quot;_ssn&quot;:&quot;Safir Innovation&quot;,&quot;presentationType&quot;:&quot;OPEN_WINDOW&quot;}\" _sp=\"p4429486.m3561.l161210\" data-vi-tracking=\"{&quot;eventFamily&quot;:&quot;ITM&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;CLICK&quot;,&quot;operationId&quot;:&quot;4429486&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;parentrq&quot;:&quot;1e5054941940a6b5243fb522ffe8331e&quot;,&quot;pageci&quot;:&quot;aa60cd35-cb48-428b-b282-1b786414a916&quot;,&quot;moduledtl&quot;:&quot;mi:3561|li:161210&quot;,&quot;sid&quot;:&quot;p4429486.m3561.l161210&quot;}}\" data-click=\"{&quot;eventFamily&quot;:&quot;ITM&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;CLICK&quot;,&quot;operationId&quot;:&quot;4429486&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;parentrq&quot;:&quot;1e5054941940a6b5243fb522ffe8331e&quot;,&quot;pageci&quot;:&quot;aa60cd35-cb48-428b-b282-1b786414a916&quot;,&quot;moduledtl&quot;:&quot;mi:3561|li:161210&quot;,&quot;sid&quot;:&quot;p4429486.m3561.l161210&quot;}}\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; cursor: pointer; text-decoration-line: none; position: relative;\"></a></div></div>",
+    "paymentMethods": [
+        {
+            "paymentMethodType": "OTHER"
+        },
+        {
+            "paymentMethodType": "WALLET",
+            "paymentMethodBrands": [
+                {
+                    "paymentMethodBrandType": "PAYPAL"
+                },
+                {
+                    "paymentMethodBrandType": "APPLE_PAY"
+                },
+                {
+                    "paymentMethodBrandType": "GOOGLE_PAY"
+                }
+            ]
+        },
+        {
+            "paymentMethodType": "CREDIT_CARD",
+            "paymentMethodBrands": [
+                {
+                    "paymentMethodBrandType": "VISA"
+                },
+                {
+                    "paymentMethodBrandType": "MASTERCARD"
+                },
+                {
+                    "paymentMethodBrandType": "DISCOVER"
+                },
+                {
+                    "paymentMethodBrandType": "DINERS_CLUB"
+                }
+            ]
+        }
+    ],
+    "immediatePay": true,
+    "enabledForGuestCheckout": false,
+    "eligibleForInlineCheckout": true,
+    "lotSize": 0,
+    "legacyItemId": "226522067246",
+    "priorityListing": true,
+    "adultOnly": false,
+    "categoryId": "182108",
+    "listingMarketplaceId": "EBAY_US"
+}
