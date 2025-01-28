@@ -173,6 +173,19 @@ class MainWindow(ttkb.Window):
 
         currency = ET.SubElement(itemXML, 'Currency')
         currency.text = item['price']['currency']
+
+        # -----
+        sellerProfiles = ET.SubElement(itemXML, 'SellerProfiles')
+        sellerPaymentProfile = ET.SubElement(sellerProfiles, "SellerPaymentProfile")
+        sellerPaymentProfileName = ET.SubElement(sellerPaymentProfile, "SellerPaymentProfileName")
+        sellerPaymentProfileName.text = "Default Payment Policy"
+        sellerReturnProfile = ET.SubElement(sellerProfiles, "SellerReturnProfile")
+        sellerReturnProfileID = ET.SubElement(sellerReturnProfile, "SellerReturnProfileID")
+        sellerReturnProfileID.text = "243441534012"
+        sellerShippingProfile = ET.SubElement(sellerProfiles, "SellerShippingProfile")
+        sellerShippingProfileName = ET.SubElement(sellerShippingProfile, "SellerShippingProfileName")
+        sellerShippingProfileName.text = "Flat:(Free),2 business days"
+        # ----
         
         primaryCategory = ET.SubElement(itemXML, 'PrimaryCategory')
         categoryID = ET.SubElement(primaryCategory, 'CategoryID')
